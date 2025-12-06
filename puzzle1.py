@@ -1,7 +1,3 @@
-"""
-Created by Juan de la Puente in Dec 2025
-Universidad Carlos III de Madrid
-"""
 import math
 
 ## PART 1
@@ -50,6 +46,7 @@ with open("input.txt") as file:
                 password +=1
         base_pos = base_pos % 100
     print(password)
+
 
 
 
